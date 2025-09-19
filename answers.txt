@@ -5,3 +5,9 @@ Answer: We might consider using Git because of the usability in teams, where mul
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to marketing, like finding potential customers for advertisement.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging joins two branches with a new merge commit that keeps the original, branching history, while rebasing rewrites your branch by replaying its commits on top of another.
+
+
